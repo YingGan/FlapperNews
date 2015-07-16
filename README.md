@@ -1,3 +1,0 @@
-# FlapperNews
-MEAN Project
-
